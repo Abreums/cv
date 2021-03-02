@@ -1,0 +1,205 @@
+---
+title: "Marcos Abreu"
+author: Marcos Abreu
+output: pagedown::html_resume
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Aside
+========================================================
+
+Objetivo
+--------------------------------------------------------
+
+*Analista de Gestão de Projetos TI Sr*
+
+
+Contato
+--------------------------------------------------------
+
+<i class="fa fa-mobile"/>  +55 41 99955-8383     
+<i class="far fa-envelope"/> [abreums@gmail.com](mailto:abreums@gmail.com)     
+<i class="fa fa-linkedin"/> [marcos-abreu-82216b](http://linkedin.com/in/marcos-abreu-82216b)     
+<i class="fa fa-github"/>  [abreums.github.io](https://abreums.github.io)    
+<i class="fab fa-medium-m"></i> [Medium: Marcos-Abreu](https://abreums.medium.com/about)    
+<i class="fas fa-home"></i>  R. Francisco Cascardo - Curitiba - PR         
+
+Idiomas
+--------------------------------------------------------
+
+<i class="fa fa-globe-americas"/>  Inglês - Fluente    
+<i class="fa fa-globe-americas"/>  Espanhol - Intermediário    
+<i class="fa fa-globe-americas"/>  Frances - Básico    
+
+
+Disclaimer
+--------------------------------------------------------
+
+[Meu cv online](https://github.com/abreums/cv/marcos_abreu.pdf)
+
+
+Main
+========================================================
+
+Marcos Abreu {#title}
+--------------------------------------------------------
+
+Atuo com Gerenciamento de Projetos, Portfólios e Gestão de Mudanças. Tive a oportunidade de participar de projetos em diferentes empresas, países e áreas de negócio, o que me ajudou a formar uma visão heterogênea. Tenho experiência com práticas ágeis desde 2008. Em particular, destaco minha experiência com Gestão de Mudanças que me valeu ter participado de projetos desafiadores de grande envergadura.
+
+
+
+Formação {data-icon=graduation-cap}
+-------------------------------------------------------
+
+### MBA em Gerenciamento de Projetos    
+
+ISAE-FGV
+
+Curitiba - PR    
+
+2003 - 2002    
+
+### Engenharia Elétrica
+
+Universidade Estadual de Campinas
+
+Campinas - SP    
+
+1991 - 1987   
+
+### _Project Management Professional_
+
+Certificação PMP
+
+PMI    
+
+Ativa - 2003   
+
+
+
+Experiência {data-icon=briefcase}
+--------------------------------------------------------
+
+### G4F Soluções Corporativas
+
+Consultor 
+
+Curitiba - PR
+
+até+data - 2020/11
+    
+    
+Realizações:    
+    
+- COPEL-Distribuição: *Gerenciamento de Mudanças* para os Programas [Paraná Trifásico](https://www.youtube.com/watch?v=_BCvrXCLxl8&t=4s) e Confiabilidade Total.    
+
+### FH 
+
+Gerente de Projetos
+
+Curitiba - PR
+
+2020/02 - 2016/04
+    
+    
+Realizações:    
+    
+- Pifpaf Ailmentos: desenvolvimento e implantação de B2B, B2C, Sales/CRM, Marketing e mobile-PWA.    
+- Pearson Education: implantação de B2B integrado com Salesforce.     
+- DPaschoal: desenvolvimento e implantação de B2C e Venda Assistida (_Omni-Channel_).     
+- Leroy Merlin: desenvolvimento de Venda Assistida.   
+
+### Instituto de Compras Governamentais - ICG
+
+Gerente de Projetos 
+
+São Paulo - SP
+
+2016/01 - 2013/09
+    
+    
+Realizações:    
+    
+- Governo de Moçambique: *Gerenciamento de Mudanças Corporativas* - desenvolvimento e realização de plano de gestão de mudanças para a implantação de novos processos e sistemas de compras governamentais. *Gerenciamento de Projetos* - desenvolvimento e implantação de sistemas de Catálogos de Produtos e Serviços, Cadastro de Fornecedores e Processos de Compras.    
+- SEBRAE-Nacional: desenvolvimento e implantação de *sistema de BI* para monitoramento de indicadores de compras governamentais.    
+
+::: aside    
+Atuar no desenvolvimento de sistemas com equipes distribuídas em dois continentes, e conduzir o Plano de Gestão de Mudanças com impacto abrangente na administração federal foi um dos trabalhos mais desafiadores que já realizei.    
+:::     
+
+
+### Konsultex
+
+Gerente de Projetos 
+
+São Paulo - SP
+
+2013/08 - 2012/06
+    
+    
+Realizações:    
+    
+- PROCERGS: implantação de sistemas de automação de processos e gestão arquivística.
+
+::: aside    
+Possuo experiência com automação de processos e gestão arquivística, de forma a proporcionar maior garantia jurídica paar as operações corporativas.    
+:::     
+
+### PM21
+
+Gerente de Projetos 
+
+Curitiba - PR
+
+2011/11 - 2003/06    
+    
+    
+Realizações:    
+    
+- Mapfre Seguros Brasil e Mapfre Seguros Argentina: implantação de Escritório de Projetos.   
+- Parque Tecnológico Itaipu: gerenciamento do projeto Baterias de Sódio de transferência internacional de tecnologia.    
+- Ministério do Meio Ambiente (MMA): Reestruturação do Programa Pantanal.    
+- Secretaria de Planejamento do Mato Grosso: Implantação de Escritório de Projetos.    
+- TRT4: Implantação de Práticas Ágeis na Secretaria de Tecnologia da Informação.   
+- Consórcio CONPAR: gerenciamento de *riscos* para as obras de expansão da Refinaria Presidente Vargas.
+- Colseguros (<bold>Colômbia</b>): implantação de solução A7 de Gestão de Portfólios e Riscos de Portfólios.
+
+
+::: aside    
+Já há 5 anos tenho estudado e desenvolvido meus conhecimentos com Análise Exploratória de Dados e desenvolvimento de modelos estatísticos utilizando R. Faço isso, porque percebo que cada vez mais, ter capacidade de ler dados - em grandes volumes - tem se tornado um recurso fundamental para entendimento de cenários e suporte para a tomada de decisões.    
+:::     
+
+
+Trabalho Voluntário {data-icon=chalkboard-teacher}
+--------------------------------------------------------
+
+### Research - The Value of Project Management
+
+Athabasca University
+
+Calgary - CA
+
+2008 - 2007
+    
+Representante do Brasil no projeto de pesquisa conduzido pela Universidade de Athabasca e patrocinado pelo PMI.
+
+### Brigada Code-For-São Paulo
+
+[Code-For-All](https://codeforall.org/)
+
+São Paulo - SP
+
+2016 - 2018
+    
+Coordenador da brigada Code-For-São Paulo de trabalho voluntário com desenvolvimento de sistemas, integrando do Code-For-All.
+
+
+::: aside    
+Meus conhecimentos com <strong>Gestão de Mudanças</strong> foram sendo desenvolvidos com minhas experiências, mas, sempre procurei seguir as ideias e propostas de [John Kotter](https://en.wikipedia.org/wiki/John_Kotter). Mais recentemente, na COPEL, estive utilizando o método *People Centred Implementation* (PCI) desenvolvido pela empresa [Change First](https://www.changefirst.com/).   
+:::     
+
+
+
