@@ -14,7 +14,7 @@ Aside
 Objetivo
 --------------------------------------------------------
 
-*Analista de Gestão de Projetos TI Sr*
+*Gerente de Projetos*
 
 
 Contato
@@ -38,7 +38,7 @@ Idiomas
 Disclaimer
 --------------------------------------------------------
 
-[Meu cv online](https://github.com/abreums/cv/marcos_abreu.pdf)
+[Meu cv online](https://abreums.github.io) 
 
 
 Main
@@ -94,7 +94,7 @@ até+data - 2020/11
     
 Realizações:    
     
-- COPEL-Distribuição: *Gerenciamento de Mudanças* para os Programas [Paraná Trifásico](https://www.youtube.com/watch?v=_BCvrXCLxl8&t=4s) e Confiabilidade Total.    
+- COPEL-Distribuição: *Gerenciamento de Mudanças* e Gerenet de Projetos para os Programas [Paraná Trifásico](https://www.youtube.com/watch?v=_BCvrXCLxl8&t=4s) e Confiabilidade Total.    
 
 ### FH 
 
@@ -159,17 +159,17 @@ Curitiba - PR
     
 Realizações:    
     
-- Mapfre Seguros Brasil e Mapfre Seguros Argentina: implantação de Escritório de Projetos.   
 - Parque Tecnológico Itaipu: gerenciamento do projeto Baterias de Sódio de transferência internacional de tecnologia.    
-- Ministério do Meio Ambiente (MMA): Reestruturação do Programa Pantanal.    
+- Mapfre Seguros Brasil e Mapfre Seguros Argentina: implantação de Escritório de Projetos.   
+- TRT4: Implantação de _Práticas Ágeis_ na Secretaria de Tecnologia da Informação.   
+- Ministério do Meio Ambiente (MMA): Reestruturação do Programa Pantanal e _Planejamento Estratégico_ da Secretaria de Desenvolvimento Rural Sustentável.    
 - Secretaria de Planejamento do Mato Grosso: Implantação de Escritório de Projetos.    
-- TRT4: Implantação de Práticas Ágeis na Secretaria de Tecnologia da Informação.   
 - Consórcio CONPAR: gerenciamento de *riscos* para as obras de expansão da Refinaria Presidente Vargas.
-- Colseguros (<bold>Colômbia</b>): implantação de solução A7 de Gestão de Portfólios e Riscos de Portfólios.
+- Colseguros - _Colômbia_: implantação de solução A7 de Gestão de Portfólios e Riscos de Portfólios.
 
 
 ::: aside    
-Já há 5 anos tenho estudado e desenvolvido meus conhecimentos com Análise Exploratória de Dados e desenvolvimento de modelos estatísticos utilizando R. Faço isso, porque percebo que cada vez mais, ter capacidade de ler dados - em grandes volumes - tem se tornado um recurso fundamental para entendimento de cenários e suporte para a tomada de decisões.    
+Já há 5 anos tenho estudado e desenvolvido meus conhecimentos com _Análise Exploratória de Dados_ e desenvolvimento de modelos estatísticos utilizando _R_. Faço isso, porque percebo que cada vez mais, ter capacidade de ler dados - em grandes volumes - tem se tornado um recurso fundamental para entendimento de cenários e suporte para a tomada de decisões.    
 :::     
 
 
