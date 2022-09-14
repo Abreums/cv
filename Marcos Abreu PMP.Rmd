@@ -1,0 +1,217 @@
+---
+title: "Marcos Abreu"
+author: Marcos Abreu
+output: pagedown::html_resume
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Aside
+========================================================
+
+Objective
+--------------------------------------------------------
+
+Project Manager
+
+
+Contact
+--------------------------------------------------------
+
+<i class="fa fa-mobile"/>  +55 41 99955-8383     
+<i class="far fa-envelope"/> [abreums@gmail.com](mailto:abreums@gmail.com)     
+<i class="fa fa-linkedin"/> [marcos-abreu-82216b](http://linkedin.com/in/marcos-abreu-82216b)     
+<i class="fa fa-github"/>  [abreums.github.io](https://abreums.github.io)    
+<i class="fas fa-home"></i>  R. Francisco Cascardo, 189 c1 Curitiba-PR         
+
+Idiomas
+--------------------------------------------------------
+
+<i class="fa fa-globe-americas"/>  English   
+<i class="fa fa-globe-americas"/>  Spanish      
+<i class="fa fa-globe-americas"/>  Portuguese    
+
+
+Disclaimer
+--------------------------------------------------------
+
+[Pesonal blog](https://abreums.github.io) 
+
+
+Main
+========================================================
+
+Marcos Abreu {#title}
+--------------------------------------------------------
+
+I had the opportunity to work as a project manager with different companies and in different business areas, including IT, chemical, oil, government, procurement, etc. This experience built me a broad view of the field and a strong experience with a focus on communication, prioritization, problem-solving, and solution delivery.
+
+
+Education {data-icon=graduation-cap}
+-------------------------------------------------------
+
+### MBA - Project Management    
+
+ISAE-FGV
+
+Curitiba - PR    
+
+2003 - 2002    
+
+### Electrical Engineering
+
+UNICAMP
+
+Campinas - SP    
+
+1991 - 1987   
+
+### PMP Certification
+
+_Project Management Professional_
+
+PMI    
+
+until date - 2003   
+
+
+
+Professional Experience {data-icon=briefcase}
+--------------------------------------------------------
+
+
+### Exxon Mobil
+
+Change Management Advisor
+
+Curitiba - PR
+
+until date - 2021/08
+    
+    
+Responsibilities and Achievements:    
+    
+- Responsible for Change Management actions for **Supply Chain** new process implementation based on _Data Analytics_ and _Machine Learning_ practices.
+- Responsible for Change Management actions including structuring a global community of practice, communication, and capability enablement in support to the Credo Inspection Management Software Tool implementation project.
+
+
+### G4F Soluções Corporativas
+
+Project Manager
+
+Curitiba - PR
+
+2021/07 - 2020/11
+    
+    
+Responsibilities and Achievements:      
+    
+- Worked as Project Manager consultant for COPEL Electric Energy Co: responsible for 
+organizing activities for Project Management and Change Management for the [Paraná Trifásico](https://www.youtube.com/watch?v=_BCvrXCLxl8&t=4s) Project and the Confiabilidade Total (Total Confiability) Project.
+
+### NTT Data (former FH, current NTT Data)
+
+Project Manager
+
+Curitiba - PR
+
+2020/02 - 2016/04
+    
+    
+Responsibilities and Achievements:  
+    
+- Pifpaf Foods: implementation of SAP's B2B, B2C, Sales/CRM, and Marketing solutions, and development of a mobile-PWA application integrated with these solutions.
+- Pearson Education: implementation of SAP's B2B solution, and integration with Salesforce.     
+- DPaschoal: implementation of SAP's B2C solution for company 3 websites with Omni-Channel user facility.     
+- Leroy Merlin: implementation of SAP's B2C solution to be used in the company's stores.   
+
+### Instituto de Compras Governamentais - ICG (Government Procurement Institute)
+
+Project Manager
+
+São Paulo - SP
+
+2016/01 - 2013/09
+    
+    
+Responsibilities and Achievements: 
+    
+- Government of Mozambique: implementation of procurement integrated solution aligned with new procurement laws and regulations. Responsible for Project Management and Change Management actions.
+- SEBRAE: implementation of Business Intelligence (BI) solution for tracking government procurement indexes.   
+
+
+### Konsultex
+
+Project Manager
+
+São Paulo - SP
+
+2013/08 - 2012/06
+    
+    
+Responsibilities and Achievements:  
+    
+- PROCERGS: implementation of Content Management System (Alfrescos Software) and Business Process Automation System (Bonita Software).
+
+::: aside    
+I have experience applying Agile practices in the project organization and have experience 
+using tools such Jira, Confluence, Microsoft's ADO, and practices as Story Mapping. 
+:::  
+
+### PM21
+
+Project Manager
+
+Curitiba - PR
+
+2011/11 - 2003/06    
+    
+    
+Responsibilities and Achievements: 
+
+- Itaipu Technology Center (ITC): project manager for international cooperation project of technology transfer project between ITC and the Sodium Batteries Swiss Company enabling ITC to build sodium batteries.
+- Mapfre Seguros Brasil e Mapfre Seguros Argentina: implementation of Project Management Office to track company IT projects.   
+- TRT4: consulting for adoption by the IT department of Agile Practices in software projects.   
+- Brazilian Federal Environment Ministry: Reorganization of Pantanal Program enabling working with new finance options, and development of Strategic Plan.
+- Mato Grosso State Government: implementation of Project Management Office.    
+- CONPAR: risk management for the expansion project of the Getúlio Vargas Refinery project.
+- Colseguros (Colombia): implementation of software solution for Portfolio Management Risks.
+
+
+::: aside    
+I have experience with Exploratory Data Analysis with R which I use in my projects developing models in support of the decision taken process. Data-driven tools became an essential tool in many management area.   
+:::     
+
+
+Volunteer Work {data-icon=chalkboard-teacher}
+--------------------------------------------------------
+
+### Research - The Value of Project Management
+
+Athabasca University
+
+Calgary - CA
+
+2008 - 2007
+    
+Brazilian representative in the "The Value of Project Management" research project conducted by Athabasca University and sponsored by PMI.
+
+### Code-For-São Paulo Brigade
+
+[Code-For-All](https://codeforall.org/)
+
+São Paulo - SP
+
+2016 - 2018
+    
+Volunteer work in the coordination of Code-For-São Paulo Brigade, member of the [Code-for-All](https://codeforall.org/) international initiative.
+
+
+::: aside    
+My Change Management knowledge was developed based on the works of [John Kotter](https://en.wikipedia.org/wiki/John_Kotter) and [Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin), among others. At COPEL, the Change Management was conducted based on the _People Centred Implementation_ (PCI) method from the [Change First](https://www.changefirst.com/) company. At ExxonMobil, I used the ADKAR model from the [Prosci](https://www.prosci.com) company. 
+:::     
+
+
+

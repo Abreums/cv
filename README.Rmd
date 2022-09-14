@@ -14,7 +14,7 @@ Aside
 Objetivo
 --------------------------------------------------------
 
-*Gerente de Projetos*
+Gerente de Projetos
 
 
 Contato
@@ -24,15 +24,14 @@ Contato
 <i class="far fa-envelope"/> [abreums@gmail.com](mailto:abreums@gmail.com)     
 <i class="fa fa-linkedin"/> [marcos-abreu-82216b](http://linkedin.com/in/marcos-abreu-82216b)     
 <i class="fa fa-github"/>  [abreums.github.io](https://abreums.github.io)    
-<i class="fab fa-medium-m"></i> [Medium: Marcos-Abreu](https://abreums.medium.com/about)    
-<i class="fas fa-home"></i>  R. Francisco Cascardo - Curitiba - PR         
+<i class="fas fa-home"></i>  R. Matias Aires, 285 ap 42 - São Paulo - SP         
 
 Idiomas
 --------------------------------------------------------
 
 <i class="fa fa-globe-americas"/>  Inglês - Fluente    
 <i class="fa fa-globe-americas"/>  Espanhol - Intermediário    
-<i class="fa fa-globe-americas"/>  Frances - Básico    
+<i class="fa fa-globe-americas"/>  Português - Nativo    
 
 
 Disclaimer
@@ -47,8 +46,7 @@ Main
 Marcos Abreu {#title}
 --------------------------------------------------------
 
-Atuo com Gerenciamento de Projetos, Portfólios e Gestão de Mudanças. Tive a oportunidade de participar de projetos em diferentes empresas, países e áreas de negócio, o que me ajudou a formar uma visão heterogênea. Tenho experiência com práticas ágeis desde 2008. Em particular, destaco minha experiência com Gestão de Mudanças que me valeu ter participado de projetos desafiadores de grande envergadura.
-
+Tive a oportunidade de atuar em empresas e governos de diferentes áreas de negócio, e países, o que me ajudou a formar uma visão diversificada de negócio e soluções. Tenho experiência com gerenciamento de projetos, programas, portfólios, planejamento estratégico, gestão de mundanças, desenvolvimento e implantação de sistemas. 
 
 
 Formação {data-icon=graduation-cap}
@@ -70,9 +68,9 @@ Campinas - SP
 
 1991 - 1987   
 
-### _Project Management Professional_
+### Certificação PMP
 
-Certificação PMP
+_Project Management Professional_
 
 PMI    
 
@@ -83,13 +81,28 @@ Ativa - 2003
 Experiência {data-icon=briefcase}
 --------------------------------------------------------
 
-### G4F Soluções Corporativas
 
-Consultor 
+### Exxon Mobil
+
+Change Management Advisor
 
 Curitiba - PR
 
-até+data - 2020/11
+até data - 2021/08
+    
+    
+Realizações:    
+    
+-  *Gerenciamento de Mudanças* para projetos de Químicos, Lubrificantes e Combustíveis.    
+
+
+### G4F Soluções Corporativas
+
+Gerente de Projetos
+
+Curitiba - PR
+
+2021/07 - 2020/11
     
     
 Realizações:    
@@ -114,7 +127,7 @@ Realizações:
 
 ### Instituto de Compras Governamentais - ICG
 
-Gerente de Projetos 
+Consultor 
 
 São Paulo - SP
 
@@ -133,7 +146,7 @@ Atuar no desenvolvimento de sistemas com equipes distribuídas em dois continent
 
 ### Konsultex
 
-Gerente de Projetos 
+Consultor 
 
 São Paulo - SP
 
@@ -150,7 +163,7 @@ Possuo experiência com automação de processos e gestão arquivística, de for
 
 ### PM21
 
-Gerente de Projetos 
+Consultor 
 
 Curitiba - PR
 
@@ -169,7 +182,7 @@ Realizações:
 
 
 ::: aside    
-Já há 5 anos tenho estudado e desenvolvido meus conhecimentos com _Análise Exploratória de Dados_ e desenvolvimento de modelos estatísticos utilizando _R_. Faço isso, porque percebo que cada vez mais, ter capacidade de ler dados - em grandes volumes - tem se tornado um recurso fundamental para entendimento de cenários e suporte para a tomada de decisões.    
+Possuo experiência com _Análise Exploratória de Dados_ e desenvolvimento de modelos estatísticos utilizando _R_. Percebo que cada vez mais a capacidade de ler dados em grandes volumes, tem se tornado um recurso fundamental para entendimento de cenários e suporte para a tomada de decisões.    
 :::     
 
 
@@ -198,7 +211,7 @@ Coordenador da brigada Code-For-São Paulo de trabalho voluntário com desenvolv
 
 
 ::: aside    
-Meus conhecimentos com <strong>Gestão de Mudanças</strong> foram sendo desenvolvidos com minhas experiências, mas, sempre procurei seguir as ideias e propostas de [John Kotter](https://en.wikipedia.org/wiki/John_Kotter). Mais recentemente, na COPEL, estive utilizando o método *People Centred Implementation* (PCI) desenvolvido pela empresa [Change First](https://www.changefirst.com/).   
+Desenvolvi meus conhecimentos com <strong>Gestão de Mudanças</strong> utilizando como base os trabalhos de [John Kotter](https://en.wikipedia.org/wiki/John_Kotter) e [Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin), dentre outros. Na COPEL, estive utilizando o método *People Centred Implementation* (PCI) desenvolvido pela empresa [Change First](https://www.changefirst.com/), e na ExxonMobil o modelo ADKAR da empresa [Prosci](https://www.prosci.com).   
 :::     
 
 

@@ -1,0 +1,234 @@
+---
+title: "Marcos Abreu"
+author: Marcos Abreu
+output: pagedown::html_resume
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Aside
+========================================================
+
+
+![Marcos Abreu](https://avatars.githubusercontent.com/u/4559925?v=4){width=60%}
+
+Dear Roshi Nouri,
+
+I send you here the answers you asked me for the written interview.
+
+I'm very happy to participate in this process. Please, let me know if there is any 
+other information I should provide.
+
+Atte,
+
+Marcos Abreu
+
+
+Objective
+--------------------------------------------------------
+
+PMO - Project Manager
+
+
+Contact
+--------------------------------------------------------
+
+<i class="fa fa-mobile"/>  +55 41 99955-8383     
+<i class="far fa-envelope"/> [abreums@gmail.com](mailto:abreums@gmail.com)     
+<i class="fa fa-linkedin"/> [marcos-abreu-82216b](http://linkedin.com/in/marcos-abreu-82216b)     
+<i class="fa fa-github"/>  [abreums.github.io](https://abreums.github.io)    
+
+
+Main
+========================================================
+
+Written Interview - Marcos Abreu {#title}
+--------------------------------------------------------
+
+
+Education {data-icon=graduation-cap}
+-------------------------------------------------------
+
+### At high school or university, how did you fare in mathematics and physical sciences? Which were your strongest subjects in the hard sciences, and how did you rank in your class?
+<br/>
+In high school and university, I always rated very high in mathematics and physical sciences. I believe that my love for science and mathematics is due to the very devoted teachers I had in elementary school, who were able to call my attention and interest to these disciplines. <br/> <br/>
+
+.
+
+### At high school or university, what leadership roles did you take on?
+<br/>
+In high school, I was a member of the theater group, responsible for organizing the yearly play of the school.<br/><br/> As I never performed very well in sports, I didn't get to the basketball and volleyball teams, which were the main sports at the school. So, I and my pals  created the handball team - mainly with students that didn't perform well in other popular sports. Our team achieve the city handball tournament. I keep that shirt with me to this day. <br/><br/> In the university I was in the board of the Academic Center, involved with  social and cultural events for the students. <br/><br/>
+
+.  
+
+### What degree and university did you choose, and why?
+<br/><br/>
+I was very happy to get into the UNICAMP (Universidade Estadual de Campinas) Electric Engineering Faculty. At that time, it was one of the most popular courses, and it keeps being until nowadays.<br/><br/> At the time, Electric Engineering was one of the main path to a career in IT, which is the main reason I chose it. 
+
+. 
+
+### How did you rank competitively in university? Which were your strongest courses, and which did you enjoy the most?
+<br/><br/>
+As I said the Electric Engineering course, at that time, was one of the most popular ones. This means I had a lot of brilliant colleagues. I never was one of the tops of the group. But it was  great opportunity to study together with such brilliant group of people. <br/><br/>When I got to the university I thought I would follow a career in electronics, but I did like studying electric transmission systems, which I had no previous knowledge of before the university. This sent me to the lab where they were studying new algorithms of load balancing energy in energy distribution systems. And it was there that I start programming with Fortran, C and C++. This knwoledge would have an important impact in my career.
+
+.
+
+### At high school or university, describe your achievements that were considered exceptional by colleagues and staff.
+<br/><br/>
+During my time working and studing in the Load Balance lab, I achieved to receive a student research scholarship from  [FINEP](http://www.finep.gov.br/), which is until now one of the most respected institutions of research foment in Brazil.
+
+.
+
+
+Career development {data-icon=chalkboard-teacher}
+-------------------------------------------------------
+
+### How would you describe your level of experience as a professional project manager?
+<br/><br/>
+I had the opportunity to work on projects with companies from different business areas, national and international companies, with project for governments from Brazil, and other countries. I also had the opportunity to work in projects that were not IT related as civil construction, innovation, environment protection projects, etc.<br/><br/>This heterogeneous experience helped me to build a senior level of the profession and a deeper understanding of project management practices and techniques.
+
+. 
+
+### Describe your path into project management as a career?
+<br/><br/>
+My first projects - from 2002 to 2006 -  were customer centered software development and implementation projects.<br/><br/> From 2006 to 2010 I had the opportunity to work with more strategic perspective: portfolio management. I implemented portfolio management in IT department of Mapfre Seguros Brazil and Mapfre Seguros Argentina, in Colseguros (Colombia), and for some Brazilian government agencies.<br/><br/>From 2008 to 2016, besides managing projects and portfolios, I also did a lot of bid and rfc responses for requests from companies and governments procurement processes. This experience gave me a solid knowlegde about the brasilian procurement process, an a lot of practice answering bid requests for open-source software solutions as Alfresco, Bonita Software and others.<br/><br/>From 2016 to 2020 I work for SAP representative company NTT-Data organizing software implementation projects. 
+
+.
+
+### What are your key knowledge areas in Project Management and how have you attained it?
+<br/><br/>
+Communication is probably the knowledge area that had demanded more effort from my work. I build my knowledge by a combination of much study and practice.
+
+.
+
+Experience  {data-icon=briefcase}
+-------------------------------------------------------
+
+### When did you become interested in project management?
+<br/><br/>
+The funny fact is that I didn't choose to work with Project Management. It was a suggestion I got from my boss at the time (1999). This teached me an important lesson: good bosses are very important in your career. <br/><br/>
+Changing career was a very difficult process. But  persist in the career swap. 
+
+.
+
+### Describe your customer facing project management experience.
+<br/><br/>
+Most of my career as PM I was working for a company providing services for other companies. When I was working for G4F, NTT-Data, ICG, Konsultex and PM21, this was the mainline.<br/><br/>Developing projects for customers instead of your on company means that for every new project you have to learn a new business and new culture. And if you are an IT PM, add a new technology too.<br/><br/> 
+
+.
+
+### What are your main insights for effective project management?
+<br/><br/>
+The main insight for effective project management is that you  first must master the PM practices, which in most cases is to know their limits. <br/><br/> Second, a project is a team endeavor. The main responsible for the project's success is the team, not the PM alone. So, as PM you need to learn to empower and serve your team. To enable them to do their bests. 
+
+. 
+
+### How do you prefer to drive documentation for your projects?
+<br/><br/>
+I'm a little bit confused with the question as I'm not sure what kind of documentation your are talking about. But let me try to answer this way: there's product documentation, work documentation, and contract documentation.<br/><br/> _Work documentation_. Team work must be traceable. Everything your team does has an important information that needs to be kept in such way to be able to track it later. You can do that providing your team with an integrated work environment that binds team tasks with code and user specifications (like user stories). In this situation it is important an automated process to glue all this information (as a DevOps process).<br/><br/> _Product documentation_ goes from manuals to code comments. In this case, less customized solutions are easier to document than very customer-specific solutions. This must be treated as part of the service and should have a specific budget and process.<br/><br/>Finally, there's the _contract documentation_, which also includes information related with prioritization, decisions, constraint, which can be from customer or yourself. This information will impact the project and the work performance. In this case, is not just how you document the information but also how you communicate it.<br/><br/>If I didn't answer you question, please, let me know.   
+
+. 
+
+### How do you assure quality in your project delivery?
+<br/><br/>This is a very important issue. Quality must be in everybody minds. It's not a testing process that will bring quality to a project. A high quality process is achieved when every programmer and team member put high standards to every task.<br/><br/>But if you are asking about testing processes, than I can say that first, it would be nice if the team already have some practice with TDD, which is not always true. TDD is good for developer tests, but integration tests is where things get interesting. I do recomend the use of any tool that could help to automate integrated tests (I had good experience with JMeter combined with a well-planned integration test plan).  
+
+.
+
+### What is your experience with Linux and Ubuntu? How did you gain that experience?
+<br/><br/>I started using linux in the 90's. At the time I did it as a hobby. I think my first distribution was Slakeware. When working for PM21, Konsultex, ICG, NTT-Data, Ubuntu was the main desktop system.<br/><br/>
+For on-premise server environments most of them were Ubuntu or RedHat.
+
+.
+
+### What would you like to achieve in your career and skills development?
+<br/><br/>As new business problems arrive, old practices must be re-read and re-invented. Projects in IT are demanding new capabilities such as the ability to work with more uncertainty and flexibility. This will demand us to get rid of some old habits, practices, and beliefs, and ask us to work with different mindsets.
+Here is an example. Five years ago, I realized that being capable of dealing with information in a more probabilistic way would be an important skill for any profession. I'm not a statistician neither would like to become one, but I decided that I should be able to deal with statistical concepts and be used to read information from sets of data. Well, I don't know if I got there, but it has being an amazing learning process.
+
+.
+
+### What are your strengths as a project manager?
+<br/><br/>I do believe I have well-trained empathy and good communication skills. As I have worked with projects in different areas: software, engineering, social, environment, etc, I have a richer understanding of how project manager knowledge brings value to the work.
+
+.
+
+### What is your proudest success as a project manager?
+<br/><br/>
+I wouldn't say "proud", but there are two projects that I have special good memories. Most recently is the project we did working for NTT-Data and the customer was PifPaf a very big food Brazilian company. It is special because I had a terrific team. I got into the middle of the project and it was already in crisis, with most of the team with very low morale and an angry customer. I'm still very impressed with how those people overcame their difficulties and bounced back. I'm very graceful in how they accepted work with me, trusted me, got committed, and still had the patience to teach me and support me in my negotiations with the customer. I will have those times in my heart (some members of the team left some testimonials on my LinkedIn Page).<br/><br/>The other project I also have special memories of is not a software project. For some time around the 2008 year, I got involved with UNDP (_United Nations Development Program_) projects. And I did restructuring work for an environmental program for the Brazilian Environment Ministry, called Pantanal Program. I have special memories of this work because it took me out of the role of software project manager and show me that as project manager I could also do great work in other areas. 
+
+.
+
+
+Insights  {data-icon=chalkboard-teacher}
+-------------------------------------------------------
+
+### What are some key performance measurement indicators used to measure project performance? Which ones would you track and why?
+<br/><br/>Running software in production is the main measurement indicator. 
+But, I also like to track the team's pace of delivery.<br/><br/>
+The tricky thing here is not what to measure, but how to measure, and how to get good information instead of garbage. It is tricky because as the development process demands some flexibility for adjustments, this flexibility can very fast allow not prioritized and not expected tasks to get space in the work. On the other side, the lack of flexibility can block real useful software to be produced. The solution is to make the team confident of the relation of their work with the indicators, so everybody contributes to the keep the measurement process on track.
+
+.
+
+### As a project manager, how would you support effective communication with a distributed project team?
+<br/><br/>Effective communication with a distributed team is more difficult and more laborious. The project manager should never assume the information is known. Some redundancy may be necessary. The negative side is that redundancy may let people to skip information out of boredom. The use of different communication channels and strategies may help.
+
+. 
+
+### What do you see as the current best practices for managing a project with remote teams?
+<br/><br/>I have experience with remote teams even before the pandemic. During 2014 and 2015, I was the project manager for a software development project working with remote teams from São Paulo, Belo Horizonte (Brazil) e Maputo (Mozambique).<br/><br/> A creative solution may demand planning to minimize communication channels based on a proper team structure. This may demand a redesign of the software structure itself but may bring considerable work performance. This kind of plan demands a more holistic architectural view. But this is why cloud computing is growing so fast, it helps support new work structures by allowing different product structures.
+<br/><br/>Even knowing that this kind of solution could bring advantages to the project work organization, it wasn't easy to convince other stakeholders to try it. Remote teams imply in advantages and disadvantages, but many people have difficulty to understand that a different way of think must be used. I have an interesting experience with a remote team environment where I could build a better team structure changing the software architecture. And the end solution brought significant better results (IMO).
+
+.
+
+### Outline the role of a project manager in shaping a high functioning project team.
+<br/><br/>
+This is my favorite question in this interview. There's a big difference between a group of people that works together and a team. A team has trust, support for the learning process (learning needs failing, failing needs support), and commitment. <br/><br/>One of the main roles of a project manager is a team builder. For that, he/she must be the first one to be clear and trustworthy, so people can be the same. He/She must show commitment to leading. Must be emphatic to understand different perspectives. And must know how to build a learning environment.
+
+.
+
+
+Context {data-icon=star}
+-------------------------------------------------------
+
+### Are you involved in open source software?
+<br/><br/>
+I'm a user of open-source software. But at the moment I'm not involved with any open source project.
+
+.
+
+### What do you think are the key ingredients of a successful open source project?
+<br/><br/>
+Based on my previous experience with Alfresco, Bonita Software, Ubuntu (and other Linux distributions), and R, I think a strong community is a very important ingredient for success. The community provides easy access to information and velocity to the adoption process. But, IMO, no open source software will be successful without a good structure company behind it. Customers still value products that have strong support companies. Finally,  a governance structure is also very important for an open-source project.
+
+.
+
+### Why do you want to work for Canonical?
+<br/><br/>
+Because you do great software.
+
+.
+
+### Which other companies are building the sort of products you would like to work on?
+<br/><br/>
+At the moment, besides Canonical, I would enjoy working for Posit (former RStudio).
+
+.
+
+### What do you think is the biggest opportunity for Canonical?
+<br/><br/>
+Not just for Canonical, but for every company, learning to be a company that embrace change - one that learns fast and adapts fast - is the kind of ability that makes a company ready for any opportunity.
+
+.
+
+### Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?
+<br/><br/>
+I think it is not just who you are racing against, but also who is running together with you. Canonical is providing solutions and services which connect with the main cloud solutions of the market. And this is very strategic.
+
+.
+
+
+
+
+
+
